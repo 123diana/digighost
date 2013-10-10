@@ -1,48 +1,3 @@
-Scene 1
-
-(At one corner of the stage, lights up on a covered body lying on a table. The detective approaches it. Perhaps we don't even see him, but we hear him in conversation.)
-
-DETECTIVE:
-So, this is our girl, huh? 
-
-OTHERGUY:
-She's the one. Twenty-six years old. Asian American. Alleged suicide.  
-
-DETECTIVE:
-She was a pretty girl. 
-
-OTHERGUY:
-Once upon a time. You don't get any beauty sleep with a bullet in your brain. So what's the story detective? Why'd she go out like this?
-
-DETECTIVE:
-You know it's all confidential.
-
-OTHERGUY:
-You just let me know how I can help. 
-
-
-
-
-
-
-
-
-Scene 1
-
-(Logan sits at the center of the stage with his laptop. We hear the clicking of his keyboard, unusually loud. It sounds almost like rain. The light of the computer screen illuminates his face and upper body. At times, he looks up, squinches his face as he thinks, and then returns to work. Behind him, the sound of Olivia's voice begins to seep out from the vents. He takes a deep breath and listens. We see a wall full of photos of Olivia, and he gently strokes her face. However, before the music ends, a phone rings.)
-
-LOGAN: 
-Yes? ... I told you not to call after 9 p.m. ... Yes, I do work at night, but I don't work after 9 p.m. ... Yes, I know evening minutes begin at 9 p.m. Of course I know that. I use cell phones. ... Fine. Send it to my mail guy and he'll bring it over for me. ... Yes, I'll get it done by Monday. Okay. "Great talking to you, too." Good bye. 
-
-(He crouches down by the vent again but the music is gone.)
-
-LOGAN:
-Are you done tonight already? 
-
-
-
-
-
 SCENE 1
 
 (Logan is standing in the rain, drenched, or simply standing in his apartment, drenched. He is very afraid. Perhaps Beth is with him, sitting by the computer, trying to stop the bad thing from happening, and trying to maintain an appropriate amount of Olivia's presence on the Internet. And the bad thing is Evan, pounding on the door.)
@@ -83,13 +38,15 @@ BETH: (Stands up and holds his hand.) Back to the beginning.
 
 LOGAN: But this is the end.
 
-(Evan breaks the door down and barges inside. He holds a gun in his hand and looks at the two of them. He is out of breath and menacing and perhaps injured. Why not?)
+(Evan breaks the door down and barges inside. He holds a gun in his hand and looks at the two of them. He is out of breath and menacing and perhaps injured. Why not? There is some recognition of him from the Olivia figure?)
 
 BETH: Don't do it, Evan. Please don't do it.
 
 EVAN: (Sneers.) I don't have a choice. (Holds up the gun and aims it at Logan.) You made this, didn't you? You pictured this in your twisted little mind. Exactly like this. 
 
 LOGAN: (Whimpers and crouches down.)  
+
+(Olivia begins to hum or sing in a tone that corresponds with Logan's whimpering.)
 
 EVAN: (Sadly.) I was standing, just like this. The gun in my hand. Bullet poised to take everything away. Just like this.
 
@@ -107,13 +64,90 @@ EVAN: You know there's no death. There's only eternity. Show us your eternity.
 
 BETH: Don't do it, Evan. Don't do it. Don't do it. Don't do it. 
 
-(The gun goes off and the stage goes dark. The sound of the gun echoes and then distorts, soon turning into a bouncy, sine graph music, alternately looping us in and shrinking away from us, until the sound turns into something warm and amniotic and safe.)
+(Olivia's singing becomes more shrill and frantic.)
+
+(The gun goes off and the stage goes dark. The sound of the gun echoes and then distorts, soon turning into a bouncy, sine graph music, alternately looping us in and shrinking away from us. Behind it, Olivia's voice is breaking glass. Lights go out and we transition to the next scene, with the sounds fading into the background.)
 
 
 
 SCENE 2
 
-(On the beach at Port Townsend. Bright lights. Distorted bird calls.)
+(On the beach at Port Townsend. Bright lights. There is a warm, amniotic rhythm of the waves. Distorted bird calls of reality pecking at the edges of this world. We are somewhere between fantasy and memory.)
+
+OLIVIA: So this is what your heaven is like?
+
+EVAN: I guess so. Heaven is wherever you're happiest, right? Where you get to be with the people you love. Forever. (Beat.) Aren't you glad we drove out here now? 
+
+OLIVIA: Scatter your ashes in Port Townsend. Check. 
+
+EVAN: Well, I don't plan on staying in heaven anytime soon. 
+
+OLIVIA: Everyone thinks they get their own customized heaven, with the drink of their choice and their childhood dog nearby. Do you know what heaven's really like? Heaven is one long, never-ending Catholic mass, where everyone's given up their bodies so they float around like little clouds of soulfulness, and worship the Lord for-ever.
+
+EVAN: That's pretty religious of you.
+
+OLIVIA: Heaven is a religious place, Evan. 
+
+EVAN: Didn't know you had God-fearing side. 
+
+OLIVIA: I used to sing for a Catholic choir. 
+
+EVAN: Really?
+
+OLIVIA: They were the best troupe in town. The song selection was limited and I had to memorize a lot of catechism to convince them I was Catholic, but it was totally worth it. There was something very right about it, our voices bouncing around the rafters and all that stained glass. It made me feel ... holy.
+
+EVAN: So. Does this mean you want to get married in a church someday? 
+
+OLIVIA: I guess so. I guess I believe in churches. Cathedrals. 
+
+EVAN: We should have a concert in a church. Yeah. I could book that place by the capitol. Or the one on the university.
+
+OLIVIA: Well, I don't want to keep singing praise songs. And I have two concerts lined up already.
+
+EVAN: Yeah, but next season. 
+
+OLIVIA: How is that story you were working on? Are you going to submit it to the journal?
+
+EVAN: (Happily.) I scrapped it. Put it in the bottom drawer with the whiskey and the shotgun. Maybe I'll pull it back up some day.
+
+OLIVIA: But I want to know how the story ends. You never write an ending.
+
+EVAN: Endings are too much of a commitment. I'd rather leave the story open.
+
+OLIVIA: I smell a cop-out.
+
+EVAN: Endings are too absolute. I don't want to decide how the situation plays out, or where the characters end up. I want to think that they can exist in the infinite web of possibility. That they took both roads in both woods and all the roads exist in their own dimension of a wintry night.
+
+OLIVIA: I think you're simply refusing to end a story because you are never sure of anything.
+
+EVAN: I'm sure of one thing. 
+
+OLIVIA: What?
+
+(Evan pulls out a ring box from his pocket. Choir music begins?)
+
+EVAN: Want to marry me in a church?
+
+(Choir music increases in volume, and then both music and lights fade. Music comes out of the computer instead. Perhaps it can go from celebratory to elegiac? And then transitions to Olivia's solo?)
+
+
+
+Scene III
+
+(Evan sits in front of his computer, lighted up by the screen of the monitor. The computer plays the tinny sound of Olivia's solo. He types furiously from the middle of the room. A knock sounds. Evan looks up. Lights go up, which show a state of dishevelment and abandon in Evan's apartment. He stops the music. The knock sounds again.)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
