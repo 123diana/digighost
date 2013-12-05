@@ -1,30 +1,22 @@
 Act II
 
-Scene 1 
-***Or maybe this is a continuation of scene 6. Not sure what shift/change happens exactly to make this a different scene.
-
-(After Olivia disappears and the scraps of what remain are carried away, Evan stays seated in the spot. Perhaps he goes back to the computer, and as he types, the shadows of the digital world begin to filter out again. Shadows dance and sing past and around him as his memory of her melts into the multifaceted versions of her in the digital Internet world. The shadows are all her, and she is none of them. He goes to her dresser top and finds the jewelry box that is locked, and he fiddles with the lock only to grow impatient, so that he destroys the box instead with a hammer or something. Inside, however, are only some pieces of jewelry and nothing that really matters. It is essentially empty? Her shadows grow larger and faster and they fold in over him. He sweeps the pieces of the box off the table. The shadows converge and then disappear. Evan does some serious-faced placing the hands on the table kind of thing. And perhaps this is actually the end of Act 1 Scene 6.)
-***I guess there might be a problem if Beth doesn't wake up. 
-***What if this box remains essentially the same object, but we switch it out with different props, so that it gets a sturdier lock, becomes bigger the next time we see it, or eventually transforms into a metal safe? 
-
-
 Scene 1
 
 (Evan seems to have been awake for a while but we're not sure what he's been doing. He walks over to the bed where Beth is sleeping and sits down. He stares at her perhaps a little more intensely than what is considered acceptable. She begins to stir and wake up.)
 
-BETH: Hmmm. (Blinks some and looks around.) Hey. What time is it?  (Beat.) Are you okay?
+BETH: Hmmm. (Blinks some and looks around.) Hey. What time is it?  
 
-EVAN: Umm. It's nine-thirty. We don't get enough sun through these windows.
+EVAN: It's nine-thirty. We don't get enough sun through these windows.
 
 BETH: Have you been up for a while?
 
 EVAN: No. Not long.
 
-BETH: Oh good. (Begins sitting up.) Wow. I slept really well. I don't normally sleep well when I'm not in my own bed. 
+BETH: Oh good. Did you sleep okay? (Begins sitting up.) Wow. I slept really well. I don't normally sleep well when I'm not in my own bed. 
 
 EVAN: Hmm.
 
-BETH: That was nice. I think I needed that. I've been having problems sleeping.
+BETH: That was nice. I think I needed that. I'm normally not sleeping well in general right now.
 
 EVAN: Yeah. Me too. 
 
@@ -34,7 +26,7 @@ EVAN: No, let me. I'll make breakfast. How do you like your eggs?
 
 BETH: However. Scrambled, I guess.
 
-EVAN: Scrambled eggs. Coming right up. Do you want tea? Coffee? Juice? I think I have orange juice. But...it's expired. But someone sent me a box of oranges. I can squeeze you some orange juice.
+EVAN: Scrambled eggs. Coming right up. Do you want tea? Coffee? Juice? I think I have orange juice. (Finds the carton of orange juice on the counter/table.) But...it's expired. Someone sent me a box of oranges, though. I can squeeze you some orange juice.
 
 BETH: Evan. Wait.
 
@@ -42,16 +34,82 @@ EVAN: (Turns around for a moment and waits.) For what?
 
 BETH: Nothing. You just seem really nervous. You don't have to be nervous. 
 
-EVAN: I'm not nervous. I'm just ... excited. 
+EVAN: I'm not nervous. I'm just ... invigorated. 
 
 BETH: I'm here for you, Evan. Whatever you need.
 
-EVAN: Ummm. (Distracted when he notices the wood shards of the jewelry box.) Gosh. You are just so nice, Beth. Really. (He shoves the wood pieces out of sight with his foot.) So. Tea? Or coffee? Or juice? 
+EVAN: Ummm. (Distracted when he notices the wood shards of the jewelry box.) That's nice. (He shoves the wood pieces out of sight with his foot.) So. Tea? Coffee? Juice? 
 
-BETH: I'll come help. Just let me clean up a bit. 
+BETH: I'll come help. Just let me go home and freshen up a bit. 
 
 EVAN: (Distracted again as he catches sight of a bigger jewelry box sitting on top of the dresser.) Okay. 
 
-(Beth exits and Evan walks over to the jewelry box. He looks at it for a moment, picks it up, sets it down. Beth enters again.)
+(Beth exits and Evan walks over to the jewelry box. He looks at it for a moment, picks it up, sets it down. ***Or maybe he packs the jewelry box away right now, and as he is shoving it in the back of the closet or something, Beth enters again.)
 
-BETH: 
+BETH: Didn't you tear that thing up last night?
+
+EVAN: What?
+
+BETH: Did you hear the rain coming in last night?
+
+EVAN: Oh. No. Not really.
+
+BETH: Yeah, neither did I. Looks pretty wet out though.
+
+EVAN: Yeah. Gets pretty rainy here, doesn't it? 
+
+BETH: Should I get some coffee going?
+
+EVAN: I'll make the eggs. 
+
+(They move around together in the kitchen and bump into each other.) 
+
+EVAN: I'm sorry. Excuse me.
+
+BETH: Evan, it's okay. Listen. Nothing happened last night. And nothing's changed. I just want to be here for you. So, relax, okay? You're not going to hurt me. And I won't stop being your friend. 
+
+EVAN: Maybe something's changed. Maybe something's different. 
+
+BETH: (Not sure what to make of this.) Oh. Like what?
+
+EVAN: (Has to walk away or pace or something to think about this.) You reach a point, you know? You get to the top of a mountain and you realize there's nothing there. Just clouds and fog. So you have to go back down the mountain. 
+
+BETH: (Puzzled, then smiling.) Are you so poetic every morning?
+
+EVAN: Not poetic. Just pathetic.
+
+BETH: Nonsense. I think you're holding up really well. 
+
+EVAN: I want to. I want to put this behind me now.
+
+BETH: Someday you will. 
+
+EVAN: I can't keep dwelling on Olivia. Going crazy over her. That's the pathetic part. When she didn't even care about me. I need to let her go. 
+
+BETH: It's hard to let things go. When you don't have the answers.
+
+EVAN: Yeah. I need answers. (Brushes a hand over his computer?)
+
+BETH: I can't give you any answers. But I've got some other ideas for you. The Chiefs are playing the Bears tonight. Do you want to go to a bar and watch?
+
+EVAN: Really. Yeah. You know? That sounds fun. I think I can vaguely remember what the world looks like outside this apartment.
+
+BETH: Good news. It's all still there.
+
+>>>EVAN: Can we go to that bar with the chess boards?
+
+BETH: Yeah! That sounds fun! 
+
+EVAN: This time Olivia won't be sighing in the corner trying to distract —
+
+(He stops, distracted by his memory of her. Beth smiles sadly and reaches for his hand.)
+
+BETH: You're not alone. That's all I want you to know.
+
+(Evan smiles back at her, too, and flips his hands around so that they are holding hands. Lights fade out.)
+End of Scene 1. 
+
+
+
+
+
